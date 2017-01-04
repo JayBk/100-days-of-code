@@ -3,8 +3,12 @@ from bs4 import BeautifulSoup
 import time
 import pandas as pd
 
-
+"""
+There is some code commented out in this file. It is code that I added when I was having problems and trying to fix them,
+I removed the majority of the extra code that I added to try and fix things, but then I decided to leave them(close to when I finished)
+"""
 def check_stocks(symb=None):
+    """A function that takes an optional list of Abbreviated stock market names as perameters, and scrapes their info into a dataframe"""
     titlelist = []
     datadict = {}
     datalist = []
