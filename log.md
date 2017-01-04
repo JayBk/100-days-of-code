@@ -17,11 +17,13 @@
 
 ### Day 1: January 3rd 2017
 
-**Today's Progress**:
+**Today's Progress**: Created a scraper that lets takes the input of a user, but it has to be the stock market abbreviation/name of a company, and scrapes yahoo's financial page for that company, and returns the results in a pandas DataFrame. :). I was going to make it so that it would ask you if you wanted to scrape again but I ran into a lot of trouble doing that for some reason, and it took me way too long to work on that when I wasn't even finished with getting the data into a DataFrame, so I dropped that, and decided to finish the basic functionality of the code. I'm planning to add on to the code as I go along and add more functionality to it. Wish me luck!
 
-**Thoughts**:
+**Thoughts**: I have a seperate log that I put in 100-days-of-code/Projects/Day(X) that I write to locally as I run into problems and things. But I will also write my thoughts to this log... I ran into a lot of problems with what I wanted to do today, and kept thinking that I was done, but then ran into another issue. I spent way more than an hour on what I did, and I'm happy I stuck with it and finished the first day :D. They say the hardest part of doing things is taking that first step and getting starting/ commiting to something. I hope that I'll be able to stick with this! Also, it's 12:41am 1/4/2017 right now but as the rules stated, it still counts for the other day because I haven't gone to sleep yet, and I was actually doing the majority of my coding before 12am(it took me a while to finish this project :X). Anyway I can't wait to have some more fun tomorrow! :D
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Scraper To DataFrame](https://gist.github.com/JayBk/ca177a944edc3a89704d04aa031795c3)
+
+<script src="https://gist.github.com/JayBk/ca177a944edc3a89704d04aa031795c3.js"></script>
 
 
 
