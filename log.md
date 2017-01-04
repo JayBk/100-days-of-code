@@ -23,7 +23,8 @@
 
 **Link(s) to work**: [Scraper To DataFrame](https://gist.github.com/JayBk/ca177a944edc3a89704d04aa031795c3)
 
-<script src="https://gist.github.com/JayBk/ca177a944edc3a89704d04aa031795c3.js"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> :D Glad I stuck with my commitment for atleast one day! Not much but I worked hard!<a href="https://t.co/DSXZXwZoqz">https://t.co/DSXZXwZoqz</a> <a href="https://t.co/IbAuuhqfKa">pic.twitter.com/IbAuuhqfKa</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/816522316070973440">January 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
