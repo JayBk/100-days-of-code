@@ -1,3 +1,8 @@
+## My personal log that I started writing to locally
+
+###Day 1
+
+```
         again = True
         while again:
             choice = input('Would you like to search again? (y/n): ')
@@ -9,7 +14,7 @@
                 break
             elif choice is not 'y' or choice is not 'n':
                 print('Please Enter "y", or "n".')
-
+```
 
 Been trying this shit forever... I'm done with that for now... I'll incorperate another search again option tomorrow or another day.
 I was also trying to use try and except and using an Exception I created but still couldnt get it to work :/...
@@ -71,3 +76,14 @@ that... and THEN I was having trouble using titlelist, then figured out that it 
 it looks pretty cool.. Now just to figure out how :D.
 
 Goodnight!
+
+
+
+###Day 2:
+DAY 2:
+It's 1:35am in the morning and I have to be up early and I've been having trouble sleeping as it is. I've been coding since about 11:30ish- I was going to use selenium to get hockey scores for whatever team you want
+but that didn't work out, and by then it was 12, and I was about to say fuck it, but then remembered that I watched a video by sentdex on his reddit worldnews alexa skills app using flask-ask and some other stuff. I
+did some more research into the reddit api, and came up with the code I have. It let's you enter the exact subreddit you want the first 10 values for and prints it out. My new endgame here is to incorporate what I made
+yesterday, and what I made today, and maybe some more stuff, into a nice object oriented GUI with buttons for each "scrape" using PyQT. Today wasn't really a good day, I just wasn't really feeling it, and I wasn't going
+to do the challenge today but I'm glad I stuck with it. Oh, I also made my stock market scraper a little more object oriented so that when I make the PyQT app, it's ready-ish(I'm sure I'll have to make a shitload of 
+changes anyway lol)
