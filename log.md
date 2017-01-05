@@ -32,7 +32,7 @@
 
 **Thoughts**: I first wanted to do something using selenium; I wanted to get the last game score for any hockey team that the user wanted.. It wasn't going well at all, so about a half hour in, I scratched it and then decided to do what I did. I plan on making one or two more scraper like programs(note to self: twitter), and put it all into a GUI with buttons for each of them using PyQT. I was going to stop after I scratched the selenium program, but forced myself to think and keep coding. I'm glad I did, and I'm glad I've at least gotten to Day 2! :D
 
-**Link(s) to work**: [Get Any Reddit Subreddit 10 Newest Posts](https://gist.github.com/JayBk/02163ac2b69fd80c9a5b615c4fa884d0)
+**Link(s) to work**: [Get Any Subreddit's 10 Newest Posts](https://gist.github.com/JayBk/02163ac2b69fd80c9a5b615c4fa884d0)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 2 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> after 12am again xD Not much today, but I have more planned in the coming days :) <a href="https://t.co/emSuuLvoca">https://t.co/emSuuLvoca</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/816907688626049024">January 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
