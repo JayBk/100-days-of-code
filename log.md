@@ -26,15 +26,13 @@
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> :D Glad I stuck with my commitment for atleast one day! Not much but I worked hard!<a href="https://t.co/DSXZXwZoqz">https://t.co/DSXZXwZoqz</a> <a href="https://t.co/IbAuuhqfKa">pic.twitter.com/IbAuuhqfKa</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/816522316070973440">January 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Day 2: January 4th 2017
 
+**Today's Progress**: Not much today. Just a program that gets the top 10 new posts from any subreddit using reddits api and relays it back to you.
 
-#vvvvvThis is just an example logvvvvv
-### Day 1: June 27, Monday
+**Thoughts**: I first wanted to do something using selenium; I wanted to get the last game score for any hockey team that the user wanted.. It wasn't going well at all, so about a half hour in, I scratched it and then decided to do what I did. I plan on making one or two more scraper like programs(note to self: twitter), and put it all into a GUI with buttons for each of them using PyQT. I was going to stop after I scratched the selenium program, but forced myself to think and keep coding. I'm glad I did, and I'm glad I've at least gotten to Day 2! :D
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link(s) to work**: [Get Any Reddit Subreddit 10 Newest Posts](https://gist.github.com/JayBk/02163ac2b69fd80c9a5b615c4fa884d0)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 2 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> after 12am again xD Not much today, but I have more planned in the coming days :) <a href="https://t.co/emSuuLvoca">https://t.co/emSuuLvoca</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/816907688626049024">January 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
