@@ -87,3 +87,30 @@ did some more research into the reddit api, and came up with the code I have. It
 yesterday, and what I made today, and maybe some more stuff, into a nice object oriented GUI with buttons for each "scrape" using PyQT. Today wasn't really a good day, I just wasn't really feeling it, and I wasn't going
 to do the challenge today but I'm glad I stuck with it. Oh, I also made my stock market scraper a little more object oriented so that when I make the PyQT app, it's ready-ish(I'm sure I'll have to make a shitload of 
 changes anyway lol)
+
+##Day 2:
+DAY 3:
+Ok, maybe i'll get done before 12am today? Doubtful... But I really can't stay up late, I need to try and go to sleep earlier because I've been barely getting any sleep and it's really effecting
+me.. I'm exhausted throughout the day and have been waking up late- which is bad because I have a lot of stuff to do throughout the day even though I'm unemployed at the moment(I have class at night(6-8ish)
+Well, here goes nothing- I'll get started using PyQt, and see what I can get done today :). I also need to work on my Coursera work which I've been slacking on and I don't want to fall behind so I might not go
+too much passed an hour today..
+OK, i decided to use tkinter, but I have to write some stuff down real quick:
+So for both buttons I need to have it so that If you click on it, they'll pop up a new message screen with the message..
+OK- It's 2:05AM... I'm done... I'm having a lot of errors, but I'll work on it more when I wake up. Right now I just created the function for the reddit scraping button, and I'm running into trouble importing things,
+I think I'm just too tired to notice shit right now lol. I built the basic GUI, added buttons ,labels and entries.. So now I'm just really trying to work on the functionality of the buttons.
+________________________________________________________________________________________________________________________
+Errors that I was running into before I stopped. vvvvvv
+```
+C:\Users\jkopp\Python\Python35-32\python.exe C:/Users/jkopp/PycharmProjects/Day1Selenium/gui4scrapes.py
+Traceback (most recent call last):
+  File "C:/Users/jkopp/PycharmProjects/Day1Selenium/gui4scrapes.py", line 3, in <module>
+    from scrapeget import *
+  File "C:\Users\jkopp\PycharmProjects\Day1Selenium\scrapeget.py", line 4, in <module>
+    from gui4scrapes import *
+  File "C:\Users\jkopp\PycharmProjects\Day1Selenium\gui4scrapes.py", line 19, in <module>
+    redditButton.bind("<Button-1", scrapeReddit())
+AttributeError: 'NoneType' object has no attribute 'bind'
+
+Process finished with exit code 1
+```
+________________________________________________________________________________________________________________________
