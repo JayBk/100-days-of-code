@@ -115,7 +115,7 @@ Process finished with exit code 1
 ```
 ________________________________________________________________________________________________________________________
 
-DAY 4:
+##DAY 4:
 Okay, 12:06AM, I've been working on my GUI for hours..I am proud to say the reddit scrape button functionality is FULLY FUNCTIONAL!!!!!! The popup window it makes is pretty nice.. As nice as I can get with some
 simple font parameters lol.. Anyway, I was so happy when I got that working fully... :D So I moved onto the stock scraping one, which is a little different because I want to display a DataFrame, and theres a
 lot more data than just 10 sentences of headlines like the reddit scrape one.. Also, a DataFrame can get really messy looking and confusing if it isn't displayed right, and I don't want mine to look
