@@ -47,3 +47,24 @@
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 3 of my <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> ! Working on a GUI for my two &quot;scrapers&quot;.. Had a lot of fun today! <a href="https://t.co/EZSxybbJJi">https://t.co/EZSxybbJJi</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/817272316526809088">January 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 4: January 6th 2017
+
+**Today's Progress**: I would like to think that I got a lot done today.. :D I added functionality to my GUI... The reddit part is basically fully complete, you type the subreddit, click the button, and get a new window with about 10 of the hottest headlines for that subreddit. Also, the stocks part is technically functional but not complete. You can type the abbreviations, click the button, and get a new window with a DataFrame, but the entry is not taking the input correctly because I forgot to set it up; and the DataFrame is displaying all yucky.
+
+**Thoughts**: I feel like I got a lot done, and when I first got the reddit part to work completely I felt really happy that I accomplished that and wanted to keep moving foward and make it look nicer. I made it look as nice as I can using basic fonts and stuff for now.. I ran into a few problems here and there, but nothing that was too crazy to figure out.. I had a fun day and I'm really glad I'm doing this and I hope that I'll stick with it for the full 100 days because I know that I will grow so much. For now, I'm tired as shit. 
+
+**Link(s) to work**: [Gist: Incomplete But Functional GUI](https://gist.github.com/JayBk/d1a1836f3427a078ce431be59e312520) 
+
+[Imgur: What the main GUI looks like](http://imgur.com/a/GWlOU). 
+
+The rest of these are after you enter text and click the appropriate button: 
+
+[Imgur: How the DataFrame(scrapingstocks) looks displaying it with Text](http://imgur.com/Wvw4zbb)
+
+[Imgur: How the DataFrame(scrapingstocks) looks displaying it with Message](http://imgur.com/vqUufAe)
+
+[Imgur: What the Headlines from the Subreddit of your choice look like](http://imgur.com/a/QRsLQ)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 4 of my <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> ! Coming along well with the GUI, It has some pretty good functionality now! <a href="https://t.co/06jlppqm1t">https://t.co/06jlppqm1t</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/817616092105506816">January 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
