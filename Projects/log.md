@@ -88,7 +88,7 @@ yesterday, and what I made today, and maybe some more stuff, into a nice object 
 to do the challenge today but I'm glad I stuck with it. Oh, I also made my stock market scraper a little more object oriented so that when I make the PyQT app, it's ready-ish(I'm sure I'll have to make a shitload of 
 changes anyway lol)
 
-##Day 2:
+##Day 3:
 DAY 3:
 Ok, maybe i'll get done before 12am today? Doubtful... But I really can't stay up late, I need to try and go to sleep earlier because I've been barely getting any sleep and it's really effecting
 me.. I'm exhausted throughout the day and have been waking up late- which is bad because I have a lot of stuff to do throughout the day even though I'm unemployed at the moment(I have class at night(6-8ish)
@@ -114,3 +114,17 @@ AttributeError: 'NoneType' object has no attribute 'bind'
 Process finished with exit code 1
 ```
 ________________________________________________________________________________________________________________________
+
+DAY 4:
+Okay, 12:06AM, I've been working on my GUI for hours..I am proud to say the reddit scrape button functionality is FULLY FUNCTIONAL!!!!!! The popup window it makes is pretty nice.. As nice as I can get with some
+simple font parameters lol.. Anyway, I was so happy when I got that working fully... :D So I moved onto the stock scraping one, which is a little different because I want to display a DataFrame, and theres a
+lot more data than just 10 sentences of headlines like the reddit scrape one.. Also, a DataFrame can get really messy looking and confusing if it isn't displayed right, and I don't want mine to look
+all yucky.. First I tried displaying it the same way as I was displaying the reddit stuff just to see what would happen, and the first things I tried were "FB GOOG AAPL", which should've given me back
+Facebook, Google, and Apple's stock market info. For some reason I got a 404... Since I've made and tested the stock scraper I've NEVER gotten a 404 so I was like wtf? For some reason I thought that the way
+I was displaying it was fucking everything up somehow, so I did some research and then decided to try displaying it as Text(window) instead of Message(window)- like how I was displaying the reddit stuff. So
+I went and changed it to use Text, and then spun it up again.. For some reason this time I only typed in 'FB', and of course; it worked.. But something was wrong: Instead of displaying Facebook it was displaying
+Ford Motor Company (F), and Barnes Group Inc. (B), for some reason.. [How it Looks Using Text(window)](http://imgur.com/Wvw4zbb) ... And [How it Looks Using Message(window)](http://imgur.com/vqUufAe) This means
+that it is interpreting every letter It get's as a different "entry", so I need to see why and fix that, because the abbreviations are supposed to be separated by spaces, but wait... oh shit..
+ I only ever set that up for input() in scraping.py... I never set it up for the Entry() for the gui.. ooohhhh okay. I see now- I'll work on that tomorrow. OK, I'm glad I noticed that now :).
+ Ok, so tomorrow I need to work on not only the formatting of how to display the DataFrame but I need to also work on how to get the Entry() to work the right way either like I had it before, or maybe
+ they could even be separated by commas... Alright, I'll work on it tomorrow, hopefully I'll get everything uploaded to gist/github and be done by 1:00AM.. It's 12:46 right now.. Day 4 Complete!
