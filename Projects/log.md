@@ -136,7 +136,7 @@ that it is interpreting every letter It get's as a different "entry", so I need 
  they could even be separated by commas... Alright, I'll work on it tomorrow, hopefully I'll get everything uploaded to gist/github and be done by 1:00AM.. It's 12:46 right now.. Day 4 Complete!
  
  
- ##DAY 5:
+ ## DAY 5:
 
 **Holy Shit Day 5!?**
  
