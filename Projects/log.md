@@ -1,6 +1,8 @@
 ## My personal log that I started writing to locally
 
-###Day 1
+##Day 1
+
+Day 1:
 
 ```
         again = True
@@ -79,7 +81,8 @@ Goodnight!
 
 
 
-###Day 2:
+##Day 2:
+
 DAY 2:
 It's 1:35am in the morning and I have to be up early and I've been having trouble sleeping as it is. I've been coding since about 11:30ish- I was going to use selenium to get hockey scores for whatever team you want
 but that didn't work out, and by then it was 12, and I was about to say fuck it, but then remembered that I watched a video by sentdex on his reddit worldnews alexa skills app using flask-ask and some other stuff. I
@@ -89,6 +92,7 @@ to do the challenge today but I'm glad I stuck with it. Oh, I also made my stock
 changes anyway lol)
 
 ##Day 3:
+
 DAY 3:
 Ok, maybe i'll get done before 12am today? Doubtful... But I really can't stay up late, I need to try and go to sleep earlier because I've been barely getting any sleep and it's really effecting
 me.. I'm exhausted throughout the day and have been waking up late- which is bad because I have a lot of stuff to do throughout the day even though I'm unemployed at the moment(I have class at night(6-8ish)
@@ -116,6 +120,8 @@ Process finished with exit code 1
 ________________________________________________________________________________________________________________________
 
 ##DAY 4:
+
+Day 4:
 Okay, 12:06AM, I've been working on my GUI for hours..I am proud to say the reddit scrape button functionality is FULLY FUNCTIONAL!!!!!! The popup window it makes is pretty nice.. As nice as I can get with some
 simple font parameters lol.. Anyway, I was so happy when I got that working fully... :D So I moved onto the stock scraping one, which is a little different because I want to display a DataFrame, and theres a
 lot more data than just 10 sentences of headlines like the reddit scrape one.. Also, a DataFrame can get really messy looking and confusing if it isn't displayed right, and I don't want mine to look
@@ -128,3 +134,24 @@ that it is interpreting every letter It get's as a different "entry", so I need 
  I only ever set that up for input() in scraping.py... I never set it up for the Entry() for the gui.. ooohhhh okay. I see now- I'll work on that tomorrow. OK, I'm glad I noticed that now :).
  Ok, so tomorrow I need to work on not only the formatting of how to display the DataFrame but I need to also work on how to get the Entry() to work the right way either like I had it before, or maybe
  they could even be separated by commas... Alright, I'll work on it tomorrow, hopefully I'll get everything uploaded to gist/github and be done by 1:00AM.. It's 12:46 right now.. Day 4 Complete!
+ 
+ 
+ ##DAY 5:
+
+**Holy Shit Day 5!?**
+ 
+Day 5:
+12:09AM D: lol after 12 again! W.e I accept the fact I'll be done after 12 every day... So today I needed to fix the Entry() and how I was displaying the dataframe, I'll start with the Entry.. I did some
+research but I didn't find anything that related to what I had in mind, so I just started messing around with things.. I tried list comprehension, but all that did was throw errors at me and after some rigging
+I got a list in a list which I didn't want because I already had to get rid of a list within a list on Day 1 I think when I made this, so no sense bringing it back into a list of a list lol.. I ended up looking
+at scraping.py(the file that scrapes the data)(which i should've done in the first place) and realized that I used .split(" ") for the input there, and that it would probably work if I implemented it for
+ the Entry... Sure as shit it did! Now onto displaying the data.. I tried so many different ways and spent at least an hour and a half researching and implementing random things, trying to install a package
+ called pandastable, which kept failing to install because of one of it's dependencies; so then I tried to install the dependency first but that was failing to install. I said fuck it and decided to keep
+ trying random things. After a little bit of random implementations again I was at a loss for trying to display the dataframe in a nice way... I decided to try using a pandas series, and a single one came
+ out pretty good, so I tried two. When I tried two there was one on top and one on the bottom, and the form was a little messed up, but nothing that I couldn't fix because they were two separate series.
+ I tried stuff like adding a newline("\n") and two tabs("\t\t") between the two since I was returning a list of series, and figured I'd just but newlines or tabs to space them apart.. Nice try but no. It
+ didn't work out as planned. Again, I was at a loss for how I could properly display my data. Then I thought, well what If I could display each series separately, in it's own Message()? To make that work nicely
+ I would somehow have to have them all in different columns depending on how many companies a person scrapes... I thought about it for a while and played with some nested for loops, and trying to use all kinds 
+ of different combinations of using "and" between stuff.. Then I finally realized that I could just use two separate for loops using enumerate() so I could have the numbers for the columns and the data for the
+ Message(the series), and the Label(the titles). The numbers for the columns needed to match up for the Labels and the Message, so the Labels are always in row 0, column X, and the Messages are always in 
+ row 1, column X.. It ended up working and looking beautiful(in my opinion). So that was my day 4 100daysofcode.. I think I may be done with this project now :O I will probably start something new tomorrow!
