@@ -68,3 +68,14 @@ The rest of these are after you enter text and click the appropriate button:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 4 of my <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> ! Coming along well with the GUI, It has some pretty good functionality now! <a href="https://t.co/06jlppqm1t">https://t.co/06jlppqm1t</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/817616092105506816">January 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 5: January 7th 2017
+
+**Today's Progress**: Finished up the GUI! It is now fully functional :)
+
+**Thoughts**: It felt good to finish this project. I'm glad I stuck with it and actually finished it. It is now fully functional and I'm satisfied with how it turned out. I'll probably move on to a new project tomorrow because I really can't think of anything else I can add to the GUI besides another scraper... But I'd like to work on something else so well see what I can come up with.. One thing is for sure: I have to try and get done earlier because I've been getting done with everything at around 1:00AM and it's been extremely hard for me to get up in the morning. Tomorrow I need to work on some Coursera stuff and also work on my actually school work, but I'm definately going to slip in at least an hour of coding at the bare minimum. 
+
+**Link(s) to work**: [Gui4Scrapes](https://github.com/JayBk/100-days-of-code/tree/master/Projects/Gui4Scrapes)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 5 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> ! The GUI for the scrapers is done and fully functional! :) Starting a new project tmr<a href="https://t.co/B0kEFeajMw">https://t.co/B0kEFeajMw</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/817978443816177664">January 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
