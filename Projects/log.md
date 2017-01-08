@@ -135,12 +135,9 @@ that it is interpreting every letter It get's as a different "entry", so I need 
  Ok, so tomorrow I need to work on not only the formatting of how to display the DataFrame but I need to also work on how to get the Entry() to work the right way either like I had it before, or maybe
  they could even be separated by commas... Alright, I'll work on it tomorrow, hopefully I'll get everything uploaded to gist/github and be done by 1:00AM.. It's 12:46 right now.. Day 4 Complete!
  
+##DAY 5:
  
- ## DAY 5:
-
-**Holy Shit Day 5!?**
- 
-Day 5:
+Day 5: **Holy Shit Day 5!?**
 12:09AM D: lol after 12 again! W.e I accept the fact I'll be done after 12 every day... So today I needed to fix the Entry() and how I was displaying the dataframe, I'll start with the Entry.. I did some
 research but I didn't find anything that related to what I had in mind, so I just started messing around with things.. I tried list comprehension, but all that did was throw errors at me and after some rigging
 I got a list in a list which I didn't want because I already had to get rid of a list within a list on Day 1 I think when I made this, so no sense bringing it back into a list of a list lol.. I ended up looking
