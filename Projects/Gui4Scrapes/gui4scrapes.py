@@ -52,6 +52,7 @@ def scrapestocks():
 
 
 root = Tk()  # Makes the basic window
+root.title('GUI 4 Scrapes!')
 
 redditFrame = Frame(root).grid(row=0, column=0, sticky=W, padx=100)
 stockFrame = Frame(root).grid(row=0, column=1, sticky=E, padx=100)
