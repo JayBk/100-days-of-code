@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 6: January 8th 2017
+
+**Today's Progress**: Finished up some Coursera assignments, and used HTML for the first time in 5+ years. Built a simple straight HTML web page with images and stuff, just to get the feel of HTML again- Since I plan on doing some FreeCodeCamp projects during my 100days.
+
+**Thoughts**: I really want to start using HTML CSS and JS, but I don't know if I'll overload myself trying to learn that plus everything I'm learning in Python(i.e Data Science, Flask stuff, Django stuff), plus my actual schoolwork... I think I'll be fine with basic HTML, CSS, and JS.. But getting into the more Intermediate/Advanced stuff I might be putting a little too much on my plate. I think It might be best for me to work on C and Python for now, and maybe, basic HTML, CSS and JS.. I don't know, I'll see.. Anyway, It was fun working with simple HTML since it's been so long, and I'm glad I got my Coursera assignments done on time, and I'm still sticking with #100DaysOfCode :). I need to think of a project for Day 7.. I was thinking some kind of Alex Skill ;). Hmmmmm.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I worked on Python assignments, and then played with HTML(Nothing crazy)- Think Last time I used it I was in HS.. It was fun! <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/818326399517913088">January 9, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### Day 5: January 7th 2017
 
 **Today's Progress**: Finished up the GUI! It is now fully functional :)
@@ -33,6 +43,7 @@ The rest of these are after you enter text and click the appropriate button:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 4 of my <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> ! Coming along well with the GUI, It has some pretty good functionality now! <a href="https://t.co/06jlppqm1t">https://t.co/06jlppqm1t</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/817616092105506816">January 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Day 3: January 5th 2017
 
@@ -68,6 +79,7 @@ The rest of these are after you enter text and click the appropriate button:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finished Day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> :D Glad I stuck with my commitment for atleast one day! Not much but I worked hard!<a href="https://t.co/DSXZXwZoqz">https://t.co/DSXZXwZoqz</a> <a href="https://t.co/IbAuuhqfKa">pic.twitter.com/IbAuuhqfKa</a></p>&mdash; Jay (@Shablam6) <a href="https://twitter.com/Shablam6/status/816522316070973440">January 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Day 0: January 2nd 2017
 ##### (KINDA-When I started writing this it was)
