@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+#Putting my 100Days on hold for now.
+
+Since I'm about to start Rmotr's Advanced Python Course, either way I'll be doing a minimum of an hour of projects and assignments for them everyday, along with helping people out and stuff. I feel I need to put everything I have into the course for a few reasons. 1- I was lucky enough to get a full scholarship for both the Intro, and Advanced class... and 2- One of the things that really helped me learn in the Intro class was completely dedicating every minute I could to the course. Whether it be assignments, projects, or helping people out I need to focus on the course for now and worry about projects later. Rmotr will keep me busy enough with projects/assignments for now :) I also have stuff for school that I'm always working on, and I really just don't have enough time to do everything, so I'm putting 100DaysOfCode on hold for now. I plan to start back up again as soon as the Advanced class ends, this way I can "stay in shape", Which should be sometime within the second week of February, as the last coding session is on the 8th I believe. In that case I'll take Feb 9th to figure out what I want to work on first(Day 0) and do anything I have to do before I start my 100Days again. Like I said I am also very interested in doing FreeCodeCamp projects getting back into HTML and learning CSS and JS... We'll see.. For now I'm sticking with RMOTR's Advanced Python Course- Which will be another great experience with a great group of people... 
+
+**Note to self: Work on the Alexa skill(You know what I mean).**
+
+
+
+
 ### Day 6: January 8th 2017
 
 **Today's Progress**: Finished up some Coursera assignments, and used HTML for the first time in 5+ years. Built a simple straight HTML web page with images and stuff, just to get the feel of HTML again- Since I plan on doing some FreeCodeCamp projects during my 100days.
